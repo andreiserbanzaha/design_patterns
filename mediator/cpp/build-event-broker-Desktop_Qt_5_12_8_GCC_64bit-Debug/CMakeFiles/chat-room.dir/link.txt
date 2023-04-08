@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/chat-room.dir/event-broker.cpp.o -o chat-room 

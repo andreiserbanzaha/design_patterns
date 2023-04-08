@@ -1,0 +1,7 @@
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/install/strip.dir
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/edit_cache.dir
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/neuron-networks.dir
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/rebuild_cache.dir
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/list_install_components.dir
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/install/local.dir
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/CMakeFiles/install.dir

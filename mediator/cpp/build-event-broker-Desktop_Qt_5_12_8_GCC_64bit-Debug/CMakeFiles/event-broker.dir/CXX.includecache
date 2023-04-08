@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andreiz/git/learn/design-patterns/mediator/cpp/event-broker/event-broker.cpp
+iostream
+-
+string
+-
+boost/signals2.hpp
+-
+

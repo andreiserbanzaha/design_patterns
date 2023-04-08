@@ -1,0 +1,8 @@
+bucharest
+250000
+budapest
+530000
+paris
+430000
+kiev
+23000

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/neural-networks.cpp
+iostream
+-
+vector
+-
+ostream
+-
+type_traits
+-
+utility
+-
+

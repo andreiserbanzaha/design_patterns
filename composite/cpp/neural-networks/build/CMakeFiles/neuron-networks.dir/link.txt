@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/neuron-networks.dir/neural-networks.cpp.o  -o neuron-networks 

@@ -1,0 +1,1 @@
+/home/andreiz/git/learn/design-patterns/composite-NOT-FINISHED/cpp/neural-networks/build/out/bin/neuron-networks
